@@ -1,7 +1,9 @@
+
 [Пример построения FAQ на md-файлах](https://github.com/dmarx/bench-warmers) <br>
 
 [Форматирование текста, мануал](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 <br>
+[Эмодзи](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 <br>
 Настоящий документ предназначен для ознакомления пользователя с функциональными возможностями языка разметки Markdown. 
 Markdown – это облегченный язык разметки, который является инструментом преобразования кода в HTML.
