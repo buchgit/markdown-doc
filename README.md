@@ -1,10 +1,8 @@
-[Использование Plunt Uml в markdown](https://github.com/buchgit/Links-total/edit/main/Files/Шаблоны-pluntuml.md)
-[Пример построения FAQ на md-файлах](https://github.com/dmarx/bench-warmers) <br>
+- [Использование Plunt Uml в markdown](https://github.com/buchgit/Links-total/edit/main/Files/Шаблоны-pluntuml.md)
+- [Пример построения FAQ на md-файлах](https://github.com/dmarx/bench-warmers) <br>
+- [Форматирование текста, мануал](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+- [Эмодзи](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-[Форматирование текста, мануал](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
-<br>
-[Эмодзи](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-<br>
 Настоящий документ предназначен для ознакомления пользователя с функциональными возможностями языка разметки Markdown. 
 Markdown – это облегченный язык разметки, который является инструментом преобразования кода в HTML.
 Главной особенностью данного языка является максимально простой синтаксис, который служит для упрощения написания и чтения кода разметки, что, в свою очередь, позволяет легко его корректировать.
