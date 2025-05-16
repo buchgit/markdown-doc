@@ -1,4 +1,4 @@
-
+[Использование Plunt Uml в markdown](https://github.com/buchgit/Links-total/edit/main/Files/Шаблоны-pluntuml.md)
 [Пример построения FAQ на md-файлах](https://github.com/dmarx/bench-warmers) <br>
 
 [Форматирование текста, мануал](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
